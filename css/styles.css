@@ -7822,14 +7822,14 @@ textarea {
   text-align: -o-center
 }
 
-.header-up__menu,
+/* .header-up__menu,
 .menu-collapse,
 .menu-opened,
 .header-up__menu2,
 .menu-collapse2,
 .menu-opened2 {
   transition: all 1s ease
-}
+} */
 
 .menu-opened ul,
 .menu-opened2 ul {
@@ -13212,4 +13212,9 @@ html {
     width: 100%;
     background: rgba(0, 0, 0, .6);
   }
+}
+
+
+.top-title__text {
+  display: none;
 }
