@@ -13292,6 +13292,10 @@ html {
     animation-name: none !important;
   }
 
+  .wood-plans__select {
+    flex-wrap: wrap;
+  }
+
 }
 
 
