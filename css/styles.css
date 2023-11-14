@@ -13288,6 +13288,10 @@ html {
     margin-right: auto;
   }
 
+  .header-up__menu {
+    animation-name: none !important;
+  }
+
 }
 
 
