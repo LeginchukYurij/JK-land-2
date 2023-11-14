@@ -13228,6 +13228,11 @@ html {
   position: relative;
 }
 
+.wood-header .container {
+  z-index: 2;
+}
+
+
 
 
 @media (max-width: 576px) {
@@ -13283,4 +13288,13 @@ html {
     margin-right: auto;
   }
 
+}
+
+
+.variant-pulse__text {
+
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
